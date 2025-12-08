@@ -1,6 +1,7 @@
 # [每日大赛：一站式赛事资讯平台，助力你的梦想起航](https://www.selfmediastudio.cc)
 
 每日大赛：https://www.selfmediastudio.cc
+
 在信息爆炸的时代，如何快速、准确地获取各类赛事信息，成为无数参赛者、爱好者和组织者面临的共同难题。每日大赛网（ https://www.selfmediastudio.cc ）应运而生，致力于打造一个全面、及时、专业的赛事资讯聚合平台，成为连接梦想与舞台的桥梁。
 
 海量赛事，一网打尽
